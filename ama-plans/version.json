@@ -1,1 +1,4 @@
-{"recommended": "0.0.41"}
+{
+  "deprecated": "we had to add the plan name too, so this file has a terrible name",
+  "recommended": "0.0.41"
+}
